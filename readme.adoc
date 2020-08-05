@@ -1,0 +1,3 @@
+# For running all the tests locally
+1. Need to add path of users.csv in reference.conf, make sure if it is windows system, then add whole path
+2. run CapPerfApp
